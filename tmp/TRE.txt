@@ -1,0 +1,766 @@
+1
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('getframe', 'D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m', 103)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m',103,0)">line 103</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('drawResultBB', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m', 118)" style="font-weight:bold">drawResultBB</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m',118,0)">line 118</a>)
+        imwrite(frame2im(getframe(gcf)), [pathSave  num2str(i) '.png']);
+} 
+1479/29
+
+ans =
+
+    51
+
+20*51
+
+ans =
+
+        1020
+
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('getframe', 'D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m', 103)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m',103,0)">line 103</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('drawResultBB', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m', 215)" style="font-weight:bold">drawResultBB</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m',215,0)">line 215</a>)
+        imwrite(frame2im(getframe(gcf)), [pathSave  num2str(i) '.png']);
+} 
+clc
+clear
+load('D:\Dropbox\TrkEval_Lim\code_release_v1.0\trackers\IVT\pca_comparison\sylvester_windows.mat')
+perfPlot
+{Undefined function or variable 'configSeqs'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('perfPlot', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m', 58)" style="font-weight:bold">perfPlot</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m',58,0)">line 58</a>)
+seqs=configSeqs;
+} 
+perfPlot
+perfPlot
+if system_dependent('IsDebugMode')==1, dbquit; end
+drawResultBB
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+if system_dependent('IsDebugMode')==1, dbquit; end
+genPerfMat
+{Error using <a href="matlab:helpUtils.errorDocCallback('genPerfMat', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m', 4)" style="font-weight:bold">genPerfMat</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m',4,0)">line 4</a>)
+Not enough input arguments.
+} 
+perfPlot
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+carDark VR
+carDark TM
+carDark RS
+carDark PD
+carDark MS
+carDark CT
+carDark TLD
+carDark IVT
+carDark DFT
+carDark ASLA
+carDark L1APG
+carDark ORIA
+carDark MTT
+carDark CSK
+carDark SCM
+carDark LOT
+carDark CPF
+carDark Struck
+carDark MIL
+carDark OAB
+carDark SBT
+carDark BSBT
+carDark Frag
+carDark KMS
+carDark SMS
+carDark LSK
+carDark VTS
+carDark VTD
+carDark CXT
+car4 VR
+car4 TM
+car4 RS
+car4 PD
+car4 MS
+car4 CT
+car4 TLD
+car4 IVT
+car4 DFT
+car4 ASLA
+car4 L1APG
+car4 ORIA
+car4 MTT
+car4 CSK
+car4 SCM
+car4 LOT
+car4 CPF
+car4 Struck
+car4 MIL
+car4 OAB
+car4 SBT
+car4 BSBT
+car4 Frag
+car4 KMS
+car4 SMS
+car4 LSK
+car4 VTS
+car4 VTD
+car4 CXT
+david VR
+david TM
+david RS
+david PD
+david MS
+david CT
+david TLD
+david IVT
+david DFT
+david ASLA
+david L1APG
+david ORIA
+david MTT
+david CSK
+david SCM
+david LOT
+david CPF
+david Struck
+david MIL
+david OAB
+david SBT
+david BSBT
+david Frag
+david KMS
+david SMS
+david LSK
+david VTS
+david VTD
+david CXT
+david2 VR
+david2 TM
+david2 RS
+david2 PD
+david2 MS
+david2 CT
+david2 TLD
+david2 IVT
+david2 DFT
+david2 ASLA
+david2 L1APG
+david2 ORIA
+david2 MTT
+david2 CSK
+david2 SCM
+david2 LOT
+david2 CPF
+david2 Struck
+david2 MIL
+david2 OAB
+david2 SBT
+david2 BSBT
+david2 Frag
+david2 KMS
+david2 SMS
+david2 LSK
+david2 VTS
+david2 VTD
+david2 CXT
+sylvester VR
+sylvester TM
+sylvester RS
+sylvester PD
+sylvester MS
+sylvester CT
+sylvester TLD
+sylvester IVT
+sylvester DFT
+sylvester ASLA
+sylvester L1APG
+sylvester ORIA
+sylvester MTT
+sylvester CSK
+sylvester SCM
+sylvester LOT
+sylvester CPF
+sylvester Struck
+sylvester MIL
+sylvester OAB
+sylvester SBT
+sylvester BSBT
+sylvester Frag
+sylvester KMS
+sylvester SMS
+sylvester LSK
+sylvester VTS
+sylvester VTD
+sylvester CXT
+trellis VR
+trellis TM
+trellis RS
+trellis PD
+trellis MS
+trellis CT
+trellis TLD
+trellis IVT
+trellis DFT
+trellis ASLA
+trellis L1APG
+trellis ORIA
+trellis MTT
+trellis CSK
+trellis SCM
+trellis LOT
+trellis CPF
+trellis Struck
+trellis MIL
+trellis OAB
+trellis SBT
+trellis BSBT
+trellis Frag
+trellis KMS
+trellis SMS
+trellis LSK
+trellis VTS
+trellis VTD
+trellis CXT
+fish VR
+fish TM
+fish RS
+fish PD
+fish MS
+fish CT
+fish TLD
+fish IVT
+fish DFT
+fish ASLA
+fish L1APG
+fish ORIA
+fish MTT
+fish CSK
+fish SCM
+fish LOT
+fish CPF
+fish Struck
+fish MIL
+fish OAB
+fish SBT
+fish BSBT
+fish Frag
+fish KMS
+fish SMS
+fish LSK
+fish VTS
+fish VTD
+fish CXT
+mhyang VR
+mhyang TM
+mhyang RS
+mhyang PD
+mhyang MS
+mhyang CT
+mhyang TLD
+mhyang IVT
+mhyang DFT
+mhyang ASLA
+mhyang L1APG
+mhyang ORIA
+mhyang MTT
+mhyang CSK
+mhyang SCM
+mhyang LOT
+mhyang CPF
+mhyang Struck
+mhyang MIL
+mhyang OAB
+mhyang SBT
+mhyang BSBT
+mhyang Frag
+mhyang KMS
+mhyang SMS
+mhyang LSK
+mhyang VTS
+mhyang VTD
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('calcSeqErrRobust', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\util\calcSeqErrRobust.m', 18)" style="font-weight:bold">calcSeqErrRobust</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\util\calcSeqErrRobust.m',18,0)">line 18</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('genPerfMat', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m', 83)" style="font-weight:bold">genPerfMat</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m',83,0)">line 83</a>)
+            [aveCoverage, aveErrCenter, errCoverage, errCenter] = calcSeqErrRobust(res, anno);
+
+In <a href="matlab:helpUtils.errorDocCallback('perfPlot', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m', 158)" style="font-weight:bold">perfPlot</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m',158,0)">line 158</a>)
+            genPerfMat(seqs, trackers, evalType, nameTrkAll, perfMatPath);
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+7/2 16:43:44
+main_running
