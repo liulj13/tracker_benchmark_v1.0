@@ -5,7 +5,7 @@ function [subSeqs, subAnno]=splitSeqTRE(seq,segNum,rect_anno)
 
 minNum = 20;
 
-fileName = ['initOmit/' seq.name '.txt'];
+fileName = ['initOmit/' seq.name '.Txt'];
 IdxExclude = [];
 if exist(fileName)
     IdxExclude=load(fileName)-seq.startFrame+1;

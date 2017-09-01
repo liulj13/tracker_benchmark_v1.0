@@ -8,9 +8,9 @@ thresholdSetError = 0:50;
 
 switch evalType
     case 'SRE'
-        rpAll=['.\results\results_SRE_CVPR13\'];
+        rpAll=['./results/results_SRE_CVPR13/'];
     case {'TRE', 'OPE'}
-        rpAll=['.\results\results_TRE_CVPR13\'];
+        rpAll=['./results/results_TRE_CVPR13/'];
 end
 
 for idxSeq=1:length(seqs)
@@ -25,7 +25,7 @@ for idxSeq=1:length(seqs)
         s.s_frames{i} = strcat(s.path,id,'.',s.ext);
     end
     
-    rect_anno = dlmread([pathAnno s.name '.txt']);
+    rect_anno = dlmread([pathAnno s.name '.Txt']);
     numSeg = 20;
     [subSeqs, subAnno]=splitSeqTRE(s,numSeg,rect_anno);
     

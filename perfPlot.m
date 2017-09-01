@@ -6,7 +6,7 @@ addpath('./util');
 
 addpath('./rstEval');
 
-attPath = '.\anno\att\'; % The folder that contains the annotation files for sequence attributes
+attPath = './anno/Att/'; % The folder that contains the annotation files for sequence attributes
 
 attName={'illumination variation'	'out-of-plane rotation'	'scale variation'	'occlusion'	'deformation'	'motion blur'	'fast motion'	'in-plane rotation'	'out of view'	'background clutter' 'low resolution'};
 
@@ -60,7 +60,7 @@ plotDrawStyle10={   struct('color',[1,0,0],'lineStyle','-'),...
     struct('color',[0,162,232]/255,'lineStyle','-'),...%Turquoise
     };
 
-seqs=configSeqs50;
+seqs=configSeqs;
 
 trackers=configTrackers;
 
@@ -88,14 +88,14 @@ for idxSeq=1:numSeq
     
     numAllSeq(idxSeq) = s.len;
     
-    att(idxSeq,:)=load([attPath s.name '.txt']);
+    att(idxSeq,:)=load([attPath s.name '.Txt']);
 end
 
 attNum = size(att,2);
 
-figPath = '.\figs\overall\';
+figPath = './figs/overall/';
 
-perfMatPath = '.\perfMat\overall\';
+perfMatPath = './perfMat/overall/';
 
 if ~exist(figPath,'dir')
     mkdir(figPath);
@@ -104,7 +104,7 @@ end
 metricTypeSet = {'error', 'overlap'};
 evalTypeSet = {'OPE'};% {'SRE', 'TRE', 'OPE'};
 
-rankingType = 'threshold';%AUC, threshold
+rankingType = 'AUC';%AUC, threshold
 
 rankNum = 30;%number of plots to show
 
