@@ -52,7 +52,7 @@ for idxTrk=indexSort(1:rankNum)
 end
 
 
-legend1=legend(tmpName,'Interpreter', 'none','fontsize',fontSizeLegend);
+legend1=legend(tmpName,'Interpreter', 'none','fontsize',fontSizeLegend,'Location','Best');
 title(titleName,'fontsize',fontSize);
 xlabel(xLabelName,'fontsize',fontSize);
 ylabel(yLabelName,'fontsize',fontSize);
